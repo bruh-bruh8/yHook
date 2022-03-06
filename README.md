@@ -1,2 +1,2 @@
-# yHook
-Discord webhook utility
+# λHook
+Discord webhook utility written in C#
