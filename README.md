@@ -1,2 +1,2 @@
 # λHook
-Discord webhook utility written in C#
+Discord webhook utility written in Python
